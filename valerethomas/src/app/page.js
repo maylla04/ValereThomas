@@ -25,7 +25,7 @@ export default function Home() {
         <h1 className='text-2xl p-5 font-semibold text-justify'>Valerie Thomas: criadora da tecnologia 3D</h1>
           <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fprimeirosnegros.b-cdn.net%2Fwp-content%2Fuploads%2F2021%2F10%2FDESTAQUE_Valerie-1.jpg&f=1&nofb=1&ipt=917d93c1f492b65e565253ee2f0054a8c380a33c0b07eb1fc75a79c1f43b3b98&ipo=images"/>
         </div>
-        <div className="p-8">
+        <div className="p-2">
           <div className="col-span-2  xl:ml-5 2xl:ml-5 mt-5">
           
           <p className='p-5 text-justify'>Valerie Thomas (nascida em Maio de 1943) é uma física norte-americana. 
